@@ -20,7 +20,7 @@ The twilio_voice_flutter package simplifies integration with Twilio's Programmab
 
   # Specify the Flutter dependency and Twilio Voice SDK
   s.dependency 'Flutter'
-  s.dependency 'TwilioVoice', '~> 6.11.1'
+  s.dependency 'TwilioVoice', '~> 6.11.3'
 
   # Set the iOS deployment target
   s.ios.deployment_target = '12.0'
